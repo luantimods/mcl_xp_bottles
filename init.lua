@@ -94,8 +94,8 @@ local bottled_xp_values = {
 	-- how big should they be?
 	-- {xp=100000, text="100k", craft=5},
 	-- {xp=500000, text="500k", craft=2},
-	-- {xp=1000000, text="1M", craft=5},
-	-- {xp=5000000, text="5M", craft=2},
+	-- {xp=1000000, text="1m", craft=5},
+	-- {xp=5000000, text="5m", craft=2},
 }
 
 -- register XP bottles loop
